@@ -1,2 +1,2 @@
 The characters below will be ignored when considering words, if they are in the middle of a word they will serve as separators for that word and it will be divided. (Note: "-" was not included, as it is used in some words)
-1234567890~`!@#$%^&*()_+=[]{}:;'"|\<,>.?/<’
+1234567890~`!@#$%^&*()_+=[]{}:;'"|\<,>.?/<‘’“”—

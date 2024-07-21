@@ -1,5 +1,5 @@
 # file-word-frequency
-A program to count the number of occurrences of words in a file and organize them by frequency.
+A program to count the number of occurrences of words in a file and organize them by frequency. Word extraction is done based on spacing and punctuation.
 
 # Usage
 Before running the code, install the dependencies with:
